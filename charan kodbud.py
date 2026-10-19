@@ -189,24 +189,3 @@ while True:
         print("Chatbot: I'm just a bot, but I'm functioning well. How are you?")
     else:
         print("Chatbot: Sorry, I don't understand that. Please ask something else.")
-
-
-
-    
-
-
-
-
-
-    
-    
-    
-
-
-
-
-
-
-
-
-
